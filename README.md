@@ -33,6 +33,8 @@ My web development tech stack:
 | ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg) | Express             |
 | ![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg) | Sass                |
 | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg) | React               |
+| ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg) | Vite                
+| ![Webpack](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg) | Webpack             ||
 
 ## Want to know more about me?
 - Find me on LinkedIn: [Christopher Johnston | LinkedIn](https://www.linkedin.com/in/christopher-johnston-developer/).
